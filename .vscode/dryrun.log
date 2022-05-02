@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/chunill/Desktop/homework'
+g++ ./C++pp/C++pp7-9.cpp -o main
+./main
+make: Leaving directory '/home/chunill/Desktop/homework'
+ 
